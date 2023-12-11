@@ -1,0 +1,16 @@
+
+
+{
+  "mongo": {
+    "uri": "mongodb+srv://bshooltool:asjhsjfsfjde@bst.jdvxnam.mongodb.net/?retryWrites=true&w=majority",
+    "database_name": "bschooltool",
+    "modulesTableName": "modules",
+    "teamsTableName": "teams",
+    "usersTableName": "users",
+    "courseTableName": "course"
+  },
+   "otherConfig": {
+    "dateFormat":"\"%Y-%m-%d\""
+  }
+
+}
